@@ -4,5 +4,5 @@ html, body{
 }
 
 a.active {
-  background-color: gray;
+  background-color: rgba(139, 69, 19, 1);
 }
